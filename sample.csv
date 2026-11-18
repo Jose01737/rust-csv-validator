@@ -1,0 +1,6 @@
+id,name,email
+1,Ana,ana@example.com
+2,Jordan,jordan@example.com
+2,Sam,sam@example.com
+3,,missing@example.com
+4,Chris,
